@@ -1,0 +1,82 @@
+*{
+ padding: 0;
+ margin: 0;
+}
+
+.head1{
+ border: 2px solid blue;
+ height: 97vh;
+ width: 95%;
+ margin: auto;
+ margin-top: 7px;
+ color: white;
+}
+.head1 {
+ background: linear-gradient(
+  to top,
+white 0%,
+white 96%,
+  #5d21d1 50%,
+  #5d21d1 100%
+ );
+}
+.head2
+{
+ color: black;
+ margin-top: 15px;
+ align-items: center;
+ text-align: center;
+}
+.form-group{
+ margin-top: 17px;
+ color: black;
+ font-size: 17px;
+ align-items: center;
+ text-align: center;
+}
+.form-grp2{
+ margin-top: 10px;
+ color: black;
+ font-size: 17px;
+ padding: 10px;
+ margin-bottom: 10px;
+}
+.form-grp2 input{
+ margin-bottom: 15px;
+}
+.form3{
+ color: black;
+ position: absolute;
+ left: 25%;
+ bottom: 60%;
+
+}
+.form4{
+ position: absolute;
+ left: 55%;
+ top: 22%;
+}
+.form5 .btns{
+ margin-top: 15px;
+ font-size: 15px;
+ color: black;
+ padding: 12px;
+ margin: 8px;
+position: relative;
+left: 30%;
+}
+.form6{
+ margin-top: 17px;
+ font-size: 17px;
+ margin-bottom: 16px;
+ padding: 10px;
+}
+.btns{
+ margin-top: 15px;
+ font-size: 15px;
+ color: black;
+ padding: 12px;
+ margin: 8px;
+position: relative;
+left: 30%;
+}
